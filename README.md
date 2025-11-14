@@ -1,6 +1,6 @@
 # About Me
 Chronically online developer.
-I love programing.
+programing woah.
 
 ### Cool Looking Info
 
