@@ -2,15 +2,6 @@
 Chronically online developer.
 programing woah.
 
-### Cool Looking Info
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=nairel-git&theme=tokyonight&layout=compact&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairel-git&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
-</a>
-
 
 ## Education 
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina)  *(2022-Today)*  
