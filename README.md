@@ -1,6 +1,5 @@
 # About Me
-Chronically online developer.
-programing woah.
+programing, woah.
 
 
 ## Education 
